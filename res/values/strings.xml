@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="app_name">Viaplay Gamecenter C</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Viaplay Gamecenter C</string>
+    <string name="invalid_joystick_area">Invalid joystick area</string>
+    <string name="has_right_joystick">has_right_joystick</string>
+    <string name="right_joystick">right_joystick</string>
+    <string name="has_left_joystick">has_left_joystick</string>
+    <string name="left_joystick">left_joystick</string>
+    <string name="perference_title">JnsIMESettings</string>
+    <string name="about">About</string>
+    <string name="version">version</string>
+    <string name="version_num">Viaplay GameCenter C V1.0 Powered by Viaplay Corporation</string>
+    <string name="quit">Quit</string>
+    <string name="help">Help</string>
+    <string name="screen_shot">Waiting for ScreenShot</string>
+    <string name="save_notice">Save this config?</string>
+    <string name="root_notice">Can not exec su, You need to root your device before use this apk
+
+        </string>
+    <string name="changeime">Keyboard  &amp; InputMethod</string>
+    <string name="Introduction">	    \n\t Introduction:\n\n
+
+	   \t  1.Make sure Viaplay GameCenter C is the current InputMethod.\n
+	    \t 2.Touch mapping:\n
+	    	\t \t       a. Press search key to start the Mapping UI.\n
+	    	\t \t      b. Touch the area you want to map, and then press a key which you want\n 
+	    	\t \t       to mapping with the screen area.\n
+	    </string>
+
+</resources>
