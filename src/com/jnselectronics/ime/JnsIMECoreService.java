@@ -156,7 +156,7 @@ public class JnsIMECoreService extends Service {
 		initialed = true;
 		//	JnsIMERoot.setContext(this);
 		JnsEnvInit.mContext = this;
-		JnsEnvInit.root();
+	//	JnsEnvInit.root();
 		/*
 		while(!JnsEnvInit.root())
 		{

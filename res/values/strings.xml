@@ -12,11 +12,12 @@
     <string name="perference_title">JnsIMESettings</string>
     <string name="about">About</string>
     <string name="version">version</string>
-    <string name="version_num">Viaplay GameCenter C V1.0 Powered by Viaplay Corporation</string>
+    <string name="version_num">Viaplay GameCenter C V1.01 Powered by Viaplay Corporation</string>
     <string name="quit">Quit</string>
     <string name="help">Help</string>
     <string name="screen_shot">Waiting for ScreenShot</string>
     <string name="save_notice">Save this config?</string>
+    <string name="click_to_change">Click to change InputMethod</string>
     <string name="root_notice">Can not exec su, You need to root your device before use this apk
 
         </string>

@@ -29,7 +29,7 @@ public class AppHelper {
 		PackageManager pm = context.getPackageManager();
 		String lable = "";
 		Bitmap icon = null;
-		try {
+		try { 
 			lable = (String) pm.getApplicationLabel(pm.getApplicationInfo(name, PackageManager.GET_UNINSTALLED_PACKAGES));
 			icon = DrawableUtil.drawableToBitmap(pm.getApplicationIcon(name));
 		} catch (NameNotFoundException e1) {
